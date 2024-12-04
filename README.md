@@ -20,6 +20,3 @@ Below is the planned design for the web page:
 - **ReactJS (if applicable)**
 
 (Intial commit)
-
-
->>>>>>> 8e9402f (Intial commit)
