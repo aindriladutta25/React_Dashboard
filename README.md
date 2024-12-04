@@ -8,7 +8,7 @@ This repository is for the development of a dashboard page. The goal is to creat
 
 Below is the planned design for the web page:  
 
-![Planned Design](/Users/abhishekkumar/Documents/React_Dashboard/public/screenshots/Screenshot-1.png)  
+![Planned Design](public/screenshots/Screenshot-1.png)  
 
 > _Note_: Replace the placeholder image (`screenshots/planned-design.png`) with an actual screenshot or design reference.  
 
