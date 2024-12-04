@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React_Dashboard
 It is a e-commerce dashboard page.
 =======
@@ -25,5 +24,4 @@ Below is the planned design for the web page:
 - **JavaScript**
 - **ReactJS (if applicable)**
 
-
->>>>>>> 8e9402f (Intial commit)
+(Intial commit)
