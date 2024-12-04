@@ -10,8 +10,6 @@ Below is the planned design for the web page:
 
 ![Planned Design](public/screenshots/Screenshot-1.png)  
 
-> _Note_: Replace the placeholder image (`screenshots/planned-design.png`) with an actual screenshot or design reference.  
-
 ---
 
 ## Technologies Planned
