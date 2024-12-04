@@ -1,6 +1,3 @@
-# React_Dashboard
-It is a e-commerce dashboard page.
-=======
 # Dashboard Page Design
 
 This repository is for the development of a dashboard page. The goal is to create a clean, responsive, and user-friendly interface based on the provided requirements.
